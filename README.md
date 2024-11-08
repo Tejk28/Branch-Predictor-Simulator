@@ -41,13 +41,16 @@ Build Tools: Makefile
 
 # File Structure
 src/sim_bp.c, src/sim_bp.h: Source code for the simulator.
+
 Makefile: Build configuration.
+
 README.md: Project documentation.
+
 report.pdf: Project report (included in final submission). 
 
 # How to Execute
 
-1. Type "make" to build.  (Type "make clean" first if you already compiled and want to recompile from scratch.)
+Type "make" to build.  (Type "make clean" first if you already compiled and want to recompile from scratch.)
  
 Run trace reader:
  
